@@ -32,5 +32,3 @@ for iterator in range(0, 10):
         log.finalResult = Result.FAILURE
 
     logs.append(log)
-
-print ("Hello")
